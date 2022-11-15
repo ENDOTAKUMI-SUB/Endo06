@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">6章課題：K020C1094</string>
+    <string name="tv_title">お問い合わせ内容を入力してください。</string>
+    <string name="tv_name">名前：</string>
+    <string name="tv_name_rubi">フリガナ：</string>
+    <string name="tv_mail">E-mail：</string>
+    <string name="tv_phone">TEL：</string>
+    <string name="tv_post">住所：</string>
+    <string name="tv_birthdate">生年月日：</string>
+    <string name="tv_year">年</string>
+    <string name="tv_month">月</string>
+    <string name="tv_date">日</string>
+    <string name="tv_sex">性別：</string>
+    <string name="radio_male">男</string>
+    <string name="radio_female">女</string>
+    <string name="radio_gender">ジェンダー</string>
+    <string name="bt_next">次のページへ</string>
+    <string name="tv_contact">お問い合わせ</string>
+    <string name="bt_confirm">確認</string>
+    <string name="bt_send">送信</string>
+    <string name="bt_clear">クリア</string>
+    <string name="dialog_title">内容確認</string>
+    <string name="dialog_msg">そのままメールを送信してください</string>
+    <string name="dialog_msg_err">入力漏れが%1$d個あります</string>
+    <string name="dialog_btn_ok">OK</string>
+    <string name="dialog_btn_ng">キャンセル</string>
+    <string name="dialog_ok_toast">OKしました</string>
+    <string name="dialog_ng_toast">キャンセルしました</string>
+    <string name="clear_toast">クリアしました</string>
+    <string name="send_toast">%1$sに送信しました</string>
+</resources>
